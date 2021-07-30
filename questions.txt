@@ -1,23 +1,23 @@
-name:
-date:
+name: Daniel Villano-Herrera
+date: 7/28/2021
 
 1 - What is a List?
-
+A list is a sequence of objects.
 
 2 - How can you create an empty list? What about a pre-populated list?
-
+You can create an empty list by declaring list_name = []. For a pre-populated list,
+you can just declare list_name = [item1, item2, ... ]
 
 3 - How do you access a list?
 
 
 4 - How do you add items to a list? Remove items?
 
-
 5 - What happens if you got out of bounds with a list?
 
 
 6 - Why are lists useful to us, as opposed to strings?
-
+Lists are mutable which means it's changeable as opposed to strings which are immutable.
 
 7 - Where a position in a string represents a character, a position in a list represents a ______?
 
